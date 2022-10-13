@@ -63,5 +63,21 @@ De opleiding CMD wilt de midterm website op een speelse manier presenteren voor 
 
 De oplevering is in de vorm van een presentatie voor voor de opdrachtgever voor 24 oktober 2022. de website moet live staan, documentatie af en alles moet gepubliceerd zijn.
 
+<hr>
 
+#### 7. Randvoorwaarden
+
+* Huisstijl van CMD
+* Desktop first
+* Data afkomstig vanuit CMS
+
+#### 8. Gebruikers van het eindresultaat
+
+* Commissie
+* Developers
+* Beheerde
+
+#### 9. Relatie met andere projecten
+
+Er zijn in dit project geen relaties met andere projecten.
 
