@@ -91,8 +91,18 @@ Er zijn in dit project geen relaties met andere projecten.
 
 Nadat wij de eerste versie van de debriefing hadden opgestuurd, kregen wij vrij snel feedback van onze opdrachtgever. Deze feedback was erg duidelijk en goed te volgen en luidde als volgt:
 
-1. vormgeving (ipv visual design). Dit ging om een zin die door ons niet goed was geformuleerd.
+1. Vormgeving (ipv visual design)
 
+> Dit ging om een zin die door ons niet goed was geformuleerd.
 
+2. Een aanzet voor een MoSCoW die we tijdens gesprek hadden (bv comments toevoegen, versie beheer etc.) is wellicht ook handig ergens neer te zetten?
 
+> Hierbij wilde de opdrachtgever iets meer context en duidelijkheid.
 
+3. Helemaal voor easter eggs, liefst wel met enige betekenis.
+
+> Ging om een zin iets duidelijke verwoorden.
+
+4. Mobile is belangrijk, maar de meeste gebruikers (commissie, content makers) zullen laptop gebruiken. Soms zelfs groter dan laptop scherm voor presentatie doeleinden
+
+> Opdrachtgever gaf aan dat mobiel niet het belangrijkste is kwa schermformaat bij deze applicatie.
