@@ -71,13 +71,23 @@ De oplevering is in de vorm van een presentatie voor voor de opdrachtgever voor 
 * Desktop first
 * Data afkomstig vanuit CMS
 
+<hr>
+
 #### 8. Gebruikers van het eindresultaat
 
 * Commissie
 * Developers
-* Beheerde
+* Beheerders
+
+<hr>
 
 #### 9. Relatie met andere projecten
 
 Er zijn in dit project geen relaties met andere projecten.
+
+<hr>
+
+### Feedback debriefing
+
+
 
