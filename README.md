@@ -1,5 +1,5 @@
 # ⚡️ Briefing / Debriefing CMD Midterm
 
-### Briefing: 
+#### Briefing:
 
 Op 
