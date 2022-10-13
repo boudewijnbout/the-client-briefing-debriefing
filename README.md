@@ -89,5 +89,10 @@ Er zijn in dit project geen relaties met andere projecten.
 
 ### Feedback debriefing
 
+Nadat wij de eerste versie van de debriefing hadden opgestuurd, kregen wij vrij snel feedback van onze opdrachtgever. Deze feedback was erg duidelijk en goed te volgen en luidde als volgt:
+
+1. vormgeving (ipv visual design). Dit ging om een zin die door ons niet goed was geformuleerd.
+
+
 
 
