@@ -87,7 +87,7 @@ Er zijn in dit project geen relaties met andere projecten.
 
 <hr>
 
-### Feedback debriefing
+### ✅ Feedback debriefing
 
 Nadat wij de eerste versie van de debriefing hadden opgestuurd, kregen wij vrij snel feedback van onze opdrachtgever. Deze feedback was erg duidelijk en goed te volgen en luidde als volgt:
 
